@@ -1,3 +1,4 @@
+import { Javascript } from "@mui/icons-material";
 
 export const Bio = {
   name: "Pushpendra Sharma",
@@ -202,37 +203,71 @@ export const education = [
 ];
 
 export const projects = [
+
+
   {
     id: 1,
-    title: "Book Bank",
-    date: "April 2024",
+    title: "YouTube Clone",
+    date: "Jun 2024",
     description:
-      "Designed and developed a comprehensive Book Bank Management System, a web-based application aimed at efficiently managing a library's inventory and lending operations. The system allows librarians to catalog books, track borrowing history, and manage member accounts seamlessly..",
+      " API Fetch From Google Cloude For All the data rendring The YouTube clone is a comprehensive video-sharing platform designed to provide users with a seamless experience for uploading.",
     image:
-      "../Project_images/Bookbank.png",
-    tags: ["React Js", "TailwindCSS","Node Js","Express js","Mongodb","DaisyUI"],
+      "../Project_images/Youtube.png",
+    tags: ["React Js", "CSS","DaisyUi","HTML","CSS","Javascript"],
     category: "web app",
-    github: "https://github.com/pushpendra8650/Book_Bank",
-    webapp: "",
+    github: "https://github.com/pushpendra8650/Youtube_Clone",
+    webapp: "https://youtube-clone-mocha-seven.vercel.app/",
 
-    
   },
+
+  {
+    id: 1,
+    title: "Website Clone",
+    // date: "April 2024",
+    description:
+      "  All the react concept use of react in this web site like Hook, map function, anf filter for data that website fully responsive.while also incorporating modern web technologies to enhance performance, scalability, and user engagement.",
+    image:
+      "../Project_images/Website.png",
+    tags: ["React Js", "CSS","DaisyUi","HTML","CSS","Javascript"],
+    category: "web app",
+    github: "https://github.com/pushpendra8650/WebSite",
+    webapp: "https://web-site-six-psi.vercel.app/",
+
+  },
+
 
 
   {
     id: 2,
      title: "Chat App",
-     date: "Jun 2024",
+     date: "April 2024",
     description:
       "ChatApp is a versatile messaging platform designed to facilitate seamless communication between friends, family, and colleagues. Whether you're looking to send a quick message, share multimedia, or engage in a lively group discussion, ChatApp has you covered.",
     image:
-    "../Project_images/ChatApp.png",
-    tags: ["React Js", "TailwindCSS", "Express js", "Node JS","Mongodb","DaisyUI"],
+    "../Project_images/Chat.png",
+    tags: ["React Js", "TailwindCSS", "Express js", "Node JS","Mongodb","DaisyUI","websocket"],
     category: "web app",
     github: "https://github.com/pushpendra8650/Chat-App",
+    webapp: "https://chat-app-rijb.onrender.com/",
+  },
+ 
+  
+  {
+    id: 2,
+     title: "Book Bank",
+     date: "Jun 2024",
+    description:
+      "Book Bank is a versatile application designed to cater to all your reading needs. Whether you’re looking to borrow, lend, buy, Book Bank connects you with a community of book enthusiasts and provides a digital platform to manage your personal library. Dive into the world of literature with ease and convenience, right from your device.",
+    image:
+    "../Project_images/Bookbank.png",
+    tags: ["React Js", "TailwindCSS", "Express js", "Node JS","Mongodb","DaisyUI"],
+    category: "web app",
+    github: "https://github.com/pushpendra8650/Book_Bank",
     webapp: "",
   },
  
+  
+   
   
    
  
