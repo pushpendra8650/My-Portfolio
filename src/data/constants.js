@@ -10,7 +10,7 @@ export const Bio = {
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/pushpendra8650",
-  resume:"Resume.pdf",
+  resume:"Pushpendra_Sharma (12).pdf",
   linkedin: "https://www.linkedin.com/in/pushpendra-kumar-sharma-18371223b/",
   
   insta: "https://www.instagram.com/mr.rockstar8650/?hl=en",
@@ -137,8 +137,8 @@ export const experiences = [
     // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
     role: "Frontend Developer",
     company: "Revogue Retailer Pvt Ltd",
-    date: "Apr 2024 - Present",
-    desc: "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+    date: " 16-Apr-2024 - 17-Jul-2024",
+    desc: "As a Frontend Developer Intern, I worked closely with the development team to design, develop, and implement user interfaces for e-commerce websites. My responsibilities was included translating design wireframes into high-quality code, optimizing components for maximum performance, and ensuring cross-browser compatibility.",
     skills: [
       "HTML",
       "TailwindCSS",
@@ -179,7 +179,7 @@ export const education = [
     school: "Bansal institute of Engineering & Technology Lucknow",
     date: "July 2020 - June 2024",
     grade: "7.71 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Bansal Institute Of Engineering & Technology Lucknow. I have completed 7 semesters and have a CGPA of 7.71. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. where I am learning and working on exciting projects with a team of talented developers.",
+    desc: "Completed my Bachelor's degree in Computer Science and Engineering at Bansal Institute Of Engineering & Technology Lucknow. I have completed 7 semesters and have a CGPA of 7.71. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. where I am learning and working on exciting projects with a team of talented developers.",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
   },
   {
@@ -207,28 +207,28 @@ export const projects = [
 
   {
     id: 1,
-    title: "YouTube Clone",
-    date: "Jun 2024",
+    title: "Stock Market Dashboard",
+    date: "July 2024",
     description:
-      " API Fetch From Google Cloude For All the data rendring The YouTube clone is a comprehensive video-sharing platform designed to provide users with a seamless experience for uploading.",
+      " A real-time stock market dashboard is a tool or platform that provides up-to-the-minute information on stock prices, market indices, trading volumes, and other relevant financial data. These dashboards are designed to help investors, traders, and financial professionals monitor market conditions and make informed decisions. Key features of a real-time stock market dashboard typically include.",
     image:
-      "../Project_images/Youtube.png",
+      "../Project_images/Stockmarket.png",
     tags: ["React Js", "CSS","DaisyUi","HTML","CSS","Javascript"],
     category: "web app",
-    github: "https://github.com/pushpendra8650/Youtube_Clone",
-    webapp: "https://youtube-clone-mocha-seven.vercel.app/",
+    github: "https://github.com/pushpendra8650/Stock_market_dashboard",
+    webapp: "https://stock-market-dashboard-sigma.vercel.app/",
 
   },
 
   {
     id: 1,
-    title: "Website Clone",
-    // date: "April 2024",
+    title: "Educity Website",
+     date: "June 2024",
     description:
       "  All the react concept use of react in this web site like Hook, map function, anf filter for data that website fully responsive.while also incorporating modern web technologies to enhance performance, scalability, and user engagement.",
     image:
       "../Project_images/Website.png",
-    tags: ["React Js", "CSS","DaisyUi","HTML","CSS","Javascript"],
+    tags: ["React Js", "CSS","DaisyUi","Express js","Node js","mongodb"],
     category: "web app",
     github: "https://github.com/pushpendra8650/WebSite",
     webapp: "https://web-site-six-psi.vercel.app/",
@@ -236,40 +236,6 @@ export const projects = [
   },
 
 
-
-  {
-    id: 2,
-     title: "Chat App",
-     date: "April 2024",
-    description:
-      "ChatApp is a versatile messaging platform designed to facilitate seamless communication between friends, family, and colleagues. Whether you're looking to send a quick message, share multimedia, or engage in a lively group discussion, ChatApp has you covered.",
-    image:
-    "../Project_images/Chat.png",
-    tags: ["React Js", "TailwindCSS", "Express js", "Node JS","Mongodb","DaisyUI","websocket"],
-    category: "web app",
-    github: "https://github.com/pushpendra8650/Chat-App",
-    webapp: "https://chat-app-rijb.onrender.com/",
-  },
- 
-  
-  {
-    id: 2,
-     title: "Book Bank",
-     date: "Jun 2024",
-    description:
-      "Book Bank is a versatile application designed to cater to all your reading needs. Whether you’re looking to borrow, lend, buy, Book Bank connects you with a community of book enthusiasts and provides a digital platform to manage your personal library. Dive into the world of literature with ease and convenience, right from your device.",
-    image:
-    "../Project_images/Bookbank.png",
-    tags: ["React Js", "TailwindCSS", "Express js", "Node JS","Mongodb","DaisyUI"],
-    category: "web app",
-    github: "https://github.com/pushpendra8650/Book_Bank",
-    webapp: "",
-  },
- 
-  
-   
-  
-   
  
   {
     id: 3,
@@ -285,7 +251,7 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/pushpendra8650/Tomato",
-    // webapp: "https://trackify.duckdns.org",
+     webapp: "https://tomato-frontend-tit6.onrender.com",
   },
  
   
