@@ -3,14 +3,15 @@ import { Javascript } from "@mui/icons-material";
 export const Bio = {
   name: "Pushpendra Sharma",
   roles: [
-    "Mern Stack Developer",
+    
+    "Software Developer",
     // "Backend Developer",
    
   ],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/pushpendra8650",
-  resume:"Pushpendra_Sharma (12).pdf",
+  resume:"Pushpendra_Sharma (15).pdf",
   linkedin: "https://www.linkedin.com/in/pushpendra-kumar-sharma-18371223b/",
   
   insta: "https://www.instagram.com/mr.rockstar8650/?hl=en",
@@ -135,7 +136,25 @@ export const experiences = [
   {
     id: 0,
     // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
-    role: "Frontend Developer",
+    role: "Software Developer",
+    company: "Xeloop media Pvt Ltd",
+    date: " 25-july-2024 -present",
+    desc: "Working on xelo web applications using technologies such as React JS, Python, MongoDB, and Tailwind CSS.Implementing advance data visualization techniques using libraries like  Chart.js, and Plotly, providing users with clear and insightful data representations.Integrate RESTful APIs and microservices to manage backend data and ensure seamless interaction between front-end and server and that project will be use for create campaign and trackier and this project can be use in future to CTV.",
+    skills: [
+      "React Js",
+      "TailwindCSS",
+      "Daisy UI",
+      "javascript",
+      "Python",
+      "Django",
+      " Mysql"
+    ],
+    
+  },
+  {
+    id: 0,
+    // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
+    role: "Frontend Developer (intern)",
     company: "Revogue Retailer Pvt Ltd",
     date: " 16-Apr-2024 - 17-Jul-2024",
     desc: "As a Frontend Developer Intern, I worked closely with the development team to design, develop, and implement user interfaces for e-commerce websites. My responsibilities was included translating design wireframes into high-quality code, optimizing components for maximum performance, and ensuring cross-browser compatibility.",
@@ -178,8 +197,8 @@ export const education = [
     //img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Kiit.jpeg?alt=media&token=3839d520-c59d-4341-ad8f-0980c98de4dd",
     school: "Bansal institute of Engineering & Technology Lucknow",
     date: "July 2020 - June 2024",
-    grade: "7.71 CGPA",
-    desc: "Completed my Bachelor's degree in Computer Science and Engineering at Bansal Institute Of Engineering & Technology Lucknow. I have completed 7 semesters and have a CGPA of 7.71. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. where I am learning and working on exciting projects with a team of talented developers.",
+    grade: "7.3 CGPA",
+    desc: "Completed my Bachelor's degree in Computer Science and Engineering at Bansal Institute Of Engineering & Technology Lucknow. I have completed 8 semesters and have a CGPA of 7.31. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. where I am learning and working on exciting projects with a team of talented developers.",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
   },
   {
@@ -204,9 +223,24 @@ export const education = [
 
 export const projects = [
 
-
   {
     id: 1,
+    title: "Xelo Web Application",
+    date: "July 2024 - present",
+    description:
+      "Working on xelo web applications using technologies such as React JS, Python, MongoDB, and Tailwind CSS.Implementing advance data visualization techniques using libraries like  Chart.js, and Plotly, providing users with clear and insightful data representations.Integrate RESTful APIs and microservices to manage backend data and ensure seamless interaction between front-end and server and that project will be use for create campaign and trackier and this project can be use in future to CTV.",
+    image:
+      "../Project_images/xelo_project.png",
+    tags: ["React Js", "Tailwind Css ","DaisyUi","Javascript","Python","MySql","Django"],
+    category: "web application",
+    github: "https://github.com/pushpendra8650/Xelo_project",
+    webapp: "https://xelo-project.vercel.app/",
+
+  },
+
+
+  {
+    id: 2,
     title: "Stock Market Dashboard",
     date: "July 2024",
     description:
@@ -221,7 +255,7 @@ export const projects = [
   },
 
   {
-    id: 1,
+    id: 3,
     title: "Educity Website",
      date: "June 2024",
     description:
@@ -238,7 +272,7 @@ export const projects = [
 
  
   {
-    id: 3,
+    id: 4,
     title: "Tomato Food Delivery App",
     date: "Feb 2023 - may 2023",
     description:
