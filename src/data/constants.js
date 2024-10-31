@@ -11,7 +11,7 @@ export const Bio = {
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/pushpendra8650",
-  resume:"Pushpendra_Sharma (15).pdf",
+  resume:"Pushpendra_Sharma (18).pdf",
   linkedin: "https://www.linkedin.com/in/pushpendra-kumar-sharma-18371223b/",
   
   insta: "https://www.instagram.com/mr.rockstar8650/?hl=en",
@@ -139,7 +139,8 @@ export const experiences = [
     role: "Software Developer",
     company: "Xeloop media Pvt Ltd",
     date: " 25-july-2024 -present",
-    desc: "Working on xelo web applications using technologies such as React JS, Python, MongoDB, and Tailwind CSS.Implementing advance data visualization techniques using libraries like  Chart.js, and Plotly, providing users with clear and insightful data representations.Integrate RESTful APIs and microservices to manage backend data and ensure seamless interaction between front-end and server and that project will be use for create campaign and trackier and this project can be use in future to CTV.",
+    desc: `As a Software Developer, I specialize in designing, developing, and maintaining high-quality software applications that drive impactful user experiences. My role involves close collaboration with cross-functional teams, including product managers, designers, and quality assurance specialists, to thoroughly understand and refine project requirements. I focus on crafting efficient and scalable software solutions, leveraging best practices and modern development methodologies to ensure optimal performance and maintainability.
+Beyond development, I take pride in ensuring code quality through rigorous testing, debugging, and continuous integration processes. I consistently conduct code reviews, apply feedback, and stay up-to-date with the latest industry trends to continuously improve both the applications I build and my technical skill set. My goal is to deliver reliable, user-centric applications that exceed client expectations and stand resilient in production environments.`,
     skills: [
       "React Js",
       "TailwindCSS",
@@ -154,17 +155,16 @@ export const experiences = [
   {
     id: 0,
     // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
-    role: "Frontend Developer (intern)",
+    role: "Python Developer (intern)",
     company: "Revogue Retailer Pvt Ltd",
     date: " 16-Apr-2024 - 17-Jul-2024",
-    desc: "As a Frontend Developer Intern, I worked closely with the development team to design, develop, and implement user interfaces for e-commerce websites. My responsibilities was included translating design wireframes into high-quality code, optimizing components for maximum performance, and ensuring cross-browser compatibility.",
+    desc: `As a Python Developer, I worked closely with cross-functional teams to design, develop, and maintain robust backend systems for e-commerce platforms. My responsibilities included developing RESTful APIs, implementing efficient data processing pipelines, and optimizing database interactions for scalability. I utilized Django and Flask to create secure and high-performance web applications, focusing on seamless integration with frontend components and ensuring responsive data retrieval. Additionally, I contributed to enhancing security measures, managing user authentication and authorization, and integrating third-party payment gateways, all while following best practices in code optimization, testing, and version control
+As a Python Developer, I worked closely with cross-functional teams to design, develop, and maintain robust backend systems for e-commerce platforms. My responsibilities included developing RESTful APIs, implementing efficient data processing pipelines, and optimizing database interactions for scalability. I utilized Django and Flask to create secure and high-performance web applications, focusing on seamless integration with frontend components and ensuring responsive data retrieval. Additionally, I contributed to enhancing security measures, managing user authentication and authorization, and integrating third-party payment gateways, all while following best practices in code optimization, testing, and version control.
+.`,
     skills: [
-      "HTML",
-      "TailwindCSS",
-      "ReactJs",
-      "javascript",
-      
-       
+      "Python",
+      "Django",
+      'Mysql'
     ],
     
   },
