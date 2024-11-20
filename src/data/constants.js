@@ -11,7 +11,7 @@ export const Bio = {
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/pushpendra8650",
-  resume:"Pushpendra_Sharma (18).pdf",
+  // resume:"Pushpendra_Sharma (18).pdf",
   linkedin: "https://www.linkedin.com/in/pushpendra-kumar-sharma-18371223b/",
   
   insta: "https://www.instagram.com/mr.rockstar8650/?hl=en",
@@ -60,6 +60,9 @@ export const skills = [
           "https://tse1.mm.bing.net/th?id=OIP.AvpmhSP2e8GguzR4CUT5dQHaEy&pid=Api&P=0&h=180",
       },
       
+    
+
+      
     ],
   },
   {
@@ -87,6 +90,19 @@ export const skills = [
         image:
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
       },
+
+      {
+        name: "Python",
+        image:
+          "https://tse2.mm.bing.net/th?id=OIP.d9zqBJuglfpGLzG4_HOf-gHaEK&pid=Api&P=0&h=180",
+      },
+
+      {
+        name: "Django",
+        image:
+          "https://tse3.mm.bing.net/th?id=OIP.veIGkUPdXJ2pYy0tMvZfvQHaDt&pid=Api&P=0&h=180",
+      },
+
      
     ],
   },
@@ -138,7 +154,7 @@ export const experiences = [
     // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
     role: "Software Developer",
     company: "Xeloop media Pvt Ltd",
-    date: " 25-july-2024 -present",
+    date: " 1-May-2024 -30-Oct-2024",
     desc: `As a Software Developer, I specialize in designing, developing, and maintaining high-quality software applications that drive impactful user experiences. My role involves close collaboration with cross-functional teams, including product managers, designers, and quality assurance specialists, to thoroughly understand and refine project requirements. I focus on crafting efficient and scalable software solutions, leveraging best practices and modern development methodologies to ensure optimal performance and maintainability.
 Beyond development, I take pride in ensuring code quality through rigorous testing, debugging, and continuous integration processes. I consistently conduct code reviews, apply feedback, and stay up-to-date with the latest industry trends to continuously improve both the applications I build and my technical skill set. My goal is to deliver reliable, user-centric applications that exceed client expectations and stand resilient in production environments.`,
     skills: [
@@ -157,7 +173,7 @@ Beyond development, I take pride in ensuring code quality through rigorous testi
     // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
     role: "Python Developer (intern)",
     company: "Revogue Retailer Pvt Ltd",
-    date: " 16-Apr-2024 - 17-Jul-2024",
+    date: " 25-Jan-2024 - 25-March-2024",
     desc: `As a Python Developer, I worked closely with cross-functional teams to design, develop, and maintain robust backend systems for e-commerce platforms. My responsibilities included developing RESTful APIs, implementing efficient data processing pipelines, and optimizing database interactions for scalability. I utilized Django and Flask to create secure and high-performance web applications, focusing on seamless integration with frontend components and ensuring responsive data retrieval. Additionally, I contributed to enhancing security measures, managing user authentication and authorization, and integrating third-party payment gateways, all while following best practices in code optimization, testing, and version control
 As a Python Developer, I worked closely with cross-functional teams to design, develop, and maintain robust backend systems for e-commerce platforms. My responsibilities included developing RESTful APIs, implementing efficient data processing pipelines, and optimizing database interactions for scalability. I utilized Django and Flask to create secure and high-performance web applications, focusing on seamless integration with frontend components and ensuring responsive data retrieval. Additionally, I contributed to enhancing security measures, managing user authentication and authorization, and integrating third-party payment gateways, all while following best practices in code optimization, testing, and version control.
 .`,
@@ -169,23 +185,23 @@ As a Python Developer, I worked closely with cross-functional teams to design, d
     
   },
 
-  {
-    id: 0,
-    // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
-    role: "Summer Trainning",
-    company: "SkyFlew Institute Lucknow",
-    date: "July 2023 - Oct 2023",
-    desc: "During the summer of 2023. I participated in an intensive training program at SoftFlew  where I gained valuable skills and hands-on experience in web development. Under the mentorship of experienced professionals, I was exposed to a diverse range of tasks and projects aimed at enhancing my understanding of Areas.",
-    skills: [
-      "React Js",
-      "Mysql",
-      "HTML",
-      "CSS",
-      "JavaScript",
+  // {
+  //   id: 0,
+  //   // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
+  //   role: "Summer Trainning",
+  //   company: "SkyFlew Institute Lucknow",
+  //   date: "July 2023 - Oct 2023",
+  //   desc: "During the summer of 2023. I participated in an intensive training program at SoftFlew  where I gained valuable skills and hands-on experience in web development. Under the mentorship of experienced professionals, I was exposed to a diverse range of tasks and projects aimed at enhancing my understanding of Areas.",
+  //   skills: [
+  //     "React Js",
+  //     "Mysql",
+  //     "HTML",
+  //     "CSS",
+  //     "JavaScript",
        
-    ],
+  //   ],
     
-  },
+  // },
   
   
  
@@ -226,9 +242,9 @@ export const projects = [
   {
     id: 1,
     title: "Xelo Web Application",
-    date: "July 2024 - present",
+    date: "contribution - 3 Developers ",
     description:
-      "Working on xelo web applications using technologies such as React JS, Python, MongoDB, and Tailwind CSS.Implementing advance data visualization techniques using libraries like  Chart.js, and Plotly, providing users with clear and insightful data representations.Integrate RESTful APIs and microservices to manage backend data and ensure seamless interaction between front-end and server and that project will be use for create campaign and trackier and this project can be use in future to CTV.",
+      "Worked on xelo web applications using technologies such as React JS, Python, MongoDB, and Tailwind CSS.Implementing advance data visualization techniques using libraries like  Chart.js, and Plotly, providing users with clear and insightful data representations.Integrate RESTful APIs and microservices to manage backend data and ensure seamless interaction between front-end and server and that project will be use for create campaign and trackier and this project can be use in future to CTV.",
     image:
       "../Project_images/xelo_project.png",
     tags: ["React Js", "Tailwind Css ","DaisyUi","Javascript","Python","MySql","Django"],
@@ -242,7 +258,7 @@ export const projects = [
   {
     id: 2,
     title: "Stock Market Dashboard",
-    date: "July 2024",
+    // date: "July 2024",
     description:
       " A real-time stock market dashboard is a tool or platform that provides up-to-the-minute information on stock prices, market indices, trading volumes, and other relevant financial data. These dashboards are designed to help investors, traders, and financial professionals monitor market conditions and make informed decisions. Key features of a real-time stock market dashboard typically include.",
     image:
@@ -257,7 +273,7 @@ export const projects = [
   {
     id: 3,
     title: "Educity Website",
-     date: "June 2024",
+    //  date: "June 2024",
     description:
       "  All the react concept use of react in this web site like Hook, map function, anf filter for data that website fully responsive.while also incorporating modern web technologies to enhance performance, scalability, and user engagement.",
     image:
@@ -274,7 +290,7 @@ export const projects = [
   {
     id: 4,
     title: "Tomato Food Delivery App",
-    date: "Feb 2023 - may 2023",
+    // date: "Feb 2023 - may 2023",
     description:
       "Tomato is a comprehensive online food delivery and restaurant discovery platform, Tomato has evolved into a multifaceted app offering various services related to food and dining. Here’s a detailed description.",
     image:
