@@ -135,11 +135,12 @@ const Contact = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      await axios.post('https://portfoliyobackend.onrender.com/api/contact/', {
+      await axios.post('http://localhost:8000/api/contact/', {
         name: formData.from_name,
         email: formData.from_email,
         message: formData.message
       });
+      console.log(formData.from_name, formData.from_email, formData.message);
       setStatus('Message sent successfully!');
       setOpen(true);
       setFormData({
@@ -148,6 +149,7 @@ const Contact = () => {
         subject: '',
         message: ''
       });
+      console.log(formData)
     } catch (error) {
       setStatus('Error sending message.');
       setOpen(true);

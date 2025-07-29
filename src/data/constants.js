@@ -305,9 +305,23 @@ export const education = [
 ];
 
 export const projects = [
+    {
+    id: 1,
+    title: "CNI News Web Application",
+    date: "contribution - 3 Developers ",
+    description:
+      "Working on the CNI News Web Application, a dynamic content-driven platform built using modern web technologies including HTML, CSS, JavaScript, Tailwind CSS, Bootstrap for the frontend, and Python, Django for the backend.Designed and developed responsive UI components and layouts using Tailwind CSS and Bootstrap, ensuring mobile and desktop compatibility ,Implemented custom Django models for managing categories, news posts, video content, and user-generated data,Created model relationships and added fields like slugs using slugify for SEO-friendly URLs,Built admin functionality using Django's admin interface by creating and managing a superuser, enabling full backend content control.",
+    image:
+      "../Project_images/cninews.png",
+    tags: ["Python","django", "HTML","CSS","Bootstrap","Javascript","SQLite"],
+    category: "web application",
+    github: "https://github.com/pushpendra8650/cni1/tree/cni_new",
+    webapp: "https://www.cninews.ca",
+
+  },
 
   {
-    id: 1,
+    id: 2,
     title: "Xelo Web Application",
     date: "contribution - 3 Developers ",
     description:
@@ -323,7 +337,7 @@ export const projects = [
 
 
   {
-    id: 2,
+    id: 3,
     title: "Stock Market Dashboard",
     // date: "July 2024",
     description:
@@ -338,7 +352,7 @@ export const projects = [
   },
 
   {
-    id: 3,
+    id: 4,
     title: "Educity Website",
     //  date: "June 2024",
     description:
@@ -355,7 +369,7 @@ export const projects = [
 
  
   {
-    id: 4,
+    id: 5,
     title: "Tomato Food Delivery App",
     // date: "Feb 2023 - may 2023",
     description:
